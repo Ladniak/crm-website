@@ -1,10 +1,10 @@
-import AddCompanyButton from './components/add-company-button';
+import GoCompaniesButton from './components/go-companies-page';
 
 export default function Home() {
   return (
     <main>
-      <h1 className="text-xl">Hello World!</h1>
-      <AddCompanyButton />
+      <h1 className="text-xl">Hello</h1>
+      <GoCompaniesButton />
     </main>
   );
 }
