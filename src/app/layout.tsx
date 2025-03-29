@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Plus_Jakarta_Sans } from 'next/font/google';
 import Providers from '@/app/components/providers';
